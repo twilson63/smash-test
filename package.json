@@ -1,0 +1,16 @@
+{
+  "name": "smash-test",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/smash-test.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.13.7",
+    "cli-progress": "^3.12.0",
+    "ramda": "^0.29.0",
+    "warp-contracts": "1.4.8",
+    "warp-contracts-plugin-deploy": "^1.0.8"
+  }
+}
